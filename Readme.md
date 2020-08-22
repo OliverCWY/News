@@ -1,3 +1,4 @@
+- 2020/08/23 - [BBC](2020/08/23/BBC.md) [CNN](2020/08/23/CNN.md) [ST](2020/08/23/ST.md) keywords:[('coronavirus', 7), ('covid19', 7), ('trump', 6), ('pandemic', 5), ('mr', 5)]
 - 2020/08/22 - [BBC](2020/08/22/BBC.md) [CNN](2020/08/22/CNN.md) [ST](2020/08/22/ST.md) keywords:[('covid19', 9), ('coronavirus', 6), ('virus', 5), ('state', 5), ('singapore', 5)]
 - 2020/08/21 - [BBC](2020/08/21/BBC.md) [CNN](2020/08/21/CNN.md) [ST](2020/08/21/ST.md) keywords:[('trump', 7), ('covid19', 7), ('coronavirus', 6), ('mr', 5), ('million', 5)]
 - 2020/08/20 - [BBC](2020/08/20/BBC.md) [CNN](2020/08/20/CNN.md) [ST](2020/08/20/ST.md) keywords:[('world', 6), ('mr', 5), ('million', 5), ('president', 4), ('trump', 4)]
