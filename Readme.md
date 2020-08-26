@@ -1,3 +1,4 @@
+- 2020/08/27 - [BBC](2020/08/27/BBC.md) [CNN](2020/08/27/CNN.md) [ST](2020/08/27/ST.md) keywords:[('coronavirus', 7), ('covid19', 6), ('mr', 5), ('president', 5), ('workers', 5)]
 - 2020/08/26 - [BBC](2020/08/26/BBC.md) [CNN](2020/08/26/CNN.md) [ST](2020/08/26/ST.md) keywords:[('mr', 6), ('covid19', 6), ('told', 5), ('president', 5), ('trump', 5)]
 - 2020/08/25 - [BBC](2020/08/25/BBC.md) [CNN](2020/08/25/CNN.md) [ST](2020/08/25/ST.md) keywords:[('mr', 7), ('covid19', 6), ('coronavirus', 6), ('health', 5), ('virus', 4)]
 - 2020/08/24 - [BBC](2020/08/24/BBC.md) [CNN](2020/08/24/CNN.md) [ST](2020/08/24/ST.md) keywords:[('trump', 8), ('president', 6), ('trumps', 5), ('world', 5), ('mr', 4)]
