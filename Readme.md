@@ -1,3 +1,4 @@
+- 2020/08/30 - [BBC](2020/08/30/BBC.md) [CNN](2020/08/30/CNN.md) [ST](2020/08/30/ST.md) keywords:[('black', 6), ('china', 5), ('told', 4), ('boseman', 4), ('panther', 4)]
 - 2020/08/29 - [BBC](2020/08/29/BBC.md) [CNN](2020/08/29/CNN.md) [ST](2020/08/29/ST.md) keywords:[('mr', 10), ('told', 7), ('covid19', 7), ('china', 6), ('cases', 5)]
 - 2020/08/28 - [BBC](2020/08/28/BBC.md) [CNN](2020/08/28/CNN.md) [ST](2020/08/28/ST.md) keywords:[('chinese', 6), ('china', 6), ('coronavirus', 6), ('trump', 5), ('mr', 5)]
 - 2020/08/27 - [BBC](2020/08/27/BBC.md) [CNN](2020/08/27/CNN.md) [ST](2020/08/27/ST.md) keywords:[('coronavirus', 7), ('covid19', 6), ('mr', 5), ('president', 5), ('workers', 5)]
