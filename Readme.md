@@ -1,3 +1,4 @@
+- 2020/09/02 - [BBC](2020/09/02/BBC.md) [CNN](2020/09/02/CNN.md) [ST](2020/09/02/ST.md) keywords:[('covid19', 10), ('world', 5), ('china', 4), ('cases', 4), ('trump', 3)]
 - 2020/09/01 - [BBC](2020/09/01/BBC.md) [CNN](2020/09/01/CNN.md) [ST](2020/09/01/ST.md) keywords:[('coronavirus', 6), ('covid19', 6), ('world', 5), ('china', 5), ('president', 4)]
 - 2020/08/31 - [BBC](2020/08/31/BBC.md) [CNN](2020/08/31/CNN.md) [ST](2020/08/31/ST.md) keywords:[('coronavirus', 8), ('trump', 7), ('cases', 6), ('according', 6), ('president', 5)]
 - 2020/08/30 - [BBC](2020/08/30/BBC.md) [CNN](2020/08/30/CNN.md) [ST](2020/08/30/ST.md) keywords:[('black', 6), ('china', 5), ('told', 4), ('boseman', 4), ('panther', 4)]
