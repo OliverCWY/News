@@ -1,0 +1,67 @@
+## Video games saved this man from the streets
+
+keywords: hart streets gaming id fighter games video man age won world tournament saved game
+
+authors: Story Nell Lewis, Video Dan Tham
+
+publish date: 2020-09-01 00:00:00
+
+![](https://cdn.cnn.com/cnnnext/dam/assets/200831101013-04-ryan-hart-gaming-super-tease.jpg)
+
+[中文翻译](Video%20games%20saved%20this%20man%20from%20the%20streets_zh.md)
+
+[Original Article](https://edition.cnn.com/2020/09/01/europe/ryan-hart-video-gamer-spc-intl/index.html)
+
+(CNN) At the age of 18, Ryan Hart found himself homeless on the streets of London. His family had been evicted from their home in Croydon, southwest of the city, following problems with a landlord.
+
+Today, more than 20 years later, Hart is a world-famous, multi-millionaire gamer, with hundreds of championships and multiple Guinness world records to his name.
+
+Video games helped him to overcome life's hardships. They were his "sanctuary," he tells CNN.
+
+Hart dressed as the Street Fighter character Ryu with Marie-Laure Norindr, the first woman to win a pro-Street Fighter event, in 2012.
+
+Hart first walked into an amusement arcade in 1989, at the age of 10. His mother gave him some spare change to play Golden Axe, a Sega game.
+
+"The rules were obvious," he says. "Walk along and try to defeat as many bad guys as you can without losing yourself."
+
+Hart was instantly hooked -- and he discovered his natural talent. Within five years, he had been scouted to play in a tournament at the Trocadero Centre, an entertainment complex in London's Piccadilly Circus, and by the age of 17 he had won his first national title.
+
+Arcades become a haven
+
+Around the same time life was getting tough at home, and Hart began sleeping rough. "I'd have a tournament coming up, but in the back of my head I'd be worried about where I'd be sleeping that night," he says.
+
+"There were times when I honestly did not know where my next meal would come from," he adds.
+
+This took a toll on his mental health. Hart fell into a depression and felt like he was "snowballing downhill."
+
+Arcades became his safe space. Entrance was free of charge and while there, Hart felt like he was part of a community.
+
+"That was my home, my sanctuary, a place where I could leave my problems at the door and nothing else mattered," says Hart.
+
+As a troubled teen, gaming gave him confidence -- "just learning that I was actually good at something," he says.
+
+In 2016, Hart set a Guinness world record for beating 260 people in a row at Street Fighter V during an 11-hour session with no breaks.
+
+It also brought him opportunity.
+
+In 1998, Hart was invited to his first overseas tournament in Japan, competing in Tekken 3, a fighting game created by Japanese developer Namco, and the King of Fighters, developed by SNK.
+
+In Tokyo he won his first world title, and from that moment everything changed.
+
+Since then, Hart has traveled across the globe and won more than 400 fighting game events.
+
+He has earned nicknames including "Robotnik," "Prodigal Son," and "The Terminator," and has more than 5,000 followers on the streaming site Twitch -- where he broadcasts his gaming and teaches tricks to fans.
+
+Hart's success at gaming has even led to a fruitful modelling career. Here, he poses for hat brand Stetson Europe.
+
+In the lead up to a competition Hart says he has an "isolated lifestyle," training for up to eight hours a day, five to six days a week. While he acknowledges that some people might see this as obsessive, for him it's a job.
+
+"It's important to know when it's time to come up for air though," he says, adding that video gaming can be problematic when "it becomes an obsession and blocks out other important areas of a person's life."
+
+Hart's lengthy career has tracked the rapid growth of the gaming industry. The global esports market exceeded $1 billion in revenue last year, with tournaments attracting more than 400 million viewers, according to research by online video game retailer Green Man Gaming
+
+Prize money has rocketed. The same report notes that in 2000, the total money won in esports tournaments globally was $700,000. Last year, it topped $173 million.
+
+Hart believes that video gaming offers an escape -- especially to people like himself who may not fit within the social norm. It can be a tool for meeting people, for traveling, and for finding a sense of community, he says.
+
+"Gaming is a great comfort to someone who couldn't connect with anything before that," he says.
