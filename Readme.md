@@ -1,3 +1,4 @@
+- 2020/09/10 - [BBC](2020/09/10/BBC.md) [CNN](2020/09/10/CNN.md) [ST](2020/09/10/ST.md) keywords:[('covid19', 8), ('told', 6), ('world', 5), ('sept', 5), ('mr', 4)]
 - 2020/09/09 - [BBC](2020/09/09/BBC.md) [CNN](2020/09/09/CNN.md) [ST](2020/09/09/ST.md) keywords:[('world', 7), ('mr', 6), ('china', 6), ('covid19', 6), ('national', 4)]
 - 2020/09/08 - [BBC](2020/09/08/BBC.md) [CNN](2020/09/08/CNN.md) [ST](2020/09/08/ST.md) keywords:[('coronavirus', 8), ('world', 7), ('covid19', 6), ('mr', 6), ('china', 5)]
 - 2020/09/07 - [BBC](2020/09/07/BBC.md) [CNN](2020/09/07/CNN.md) [ST](2020/09/07/ST.md) keywords:[('mr', 5), ('world', 5), ('workers', 5), ('uk', 4), ('pandemic', 4)]
