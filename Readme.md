@@ -1,3 +1,4 @@
+- 2020/09/12 - [BBC](2020/09/12/BBC.md) [CNN](2020/09/12/CNN.md) [ST](2020/09/12/ST.md) keywords:[('singapore', 5), ('mr', 4), ('chinese', 4), ('china', 4), ('company', 4)]
 - 2020/09/11 - [BBC](2020/09/11/BBC.md) [CNN](2020/09/11/CNN.md) [ST](2020/09/11/ST.md) keywords:[('covid19', 8), ('state', 7), ('coronavirus', 7), ('uk', 6), ('cases', 6)]
 - 2020/09/10 - [BBC](2020/09/10/BBC.md) [CNN](2020/09/10/CNN.md) [ST](2020/09/10/ST.md) keywords:[('covid19', 8), ('told', 6), ('world', 5), ('sept', 5), ('mr', 4)]
 - 2020/09/09 - [BBC](2020/09/09/BBC.md) [CNN](2020/09/09/CNN.md) [ST](2020/09/09/ST.md) keywords:[('world', 7), ('mr', 6), ('china', 6), ('covid19', 6), ('national', 4)]
