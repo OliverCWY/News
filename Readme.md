@@ -1,3 +1,4 @@
+- 2020/09/15 - [BBC](2020/09/15/BBC.md) [CNN](2020/09/15/CNN.md) [ST](2020/09/15/ST.md) keywords:[('coronavirus', 7), ('trump', 5), ('covid19', 5), ('deal', 4), ('life', 4)]
 - 2020/09/14 - [BBC](2020/09/14/BBC.md) [CNN](2020/09/14/CNN.md) [ST](2020/09/14/ST.md) keywords:[('china', 6), ('election', 4), ('trump', 4), ('coronavirus', 4), ('million', 4)]
 - 2020/09/13 - [BBC](2020/09/13/BBC.md) [CNN](2020/09/13/CNN.md) [ST](2020/09/13/ST.md) keywords:[('told', 6), ('state', 6), ('workers', 6), ('covid19', 6), ('uk', 5)]
 - 2020/09/12 - [BBC](2020/09/12/BBC.md) [CNN](2020/09/12/CNN.md) [ST](2020/09/12/ST.md) keywords:[('singapore', 5), ('mr', 4), ('chinese', 4), ('china', 4), ('company', 4)]
